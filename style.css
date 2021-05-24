@@ -1,0 +1,26 @@
+* {
+    color: aquamarine;
+    padding: 0;
+    margin: 0;
+}
+
+#id1 {
+    color: red;
+}
+
+.class1 {
+    color: brown;
+}
+
+p {
+    color: blueviolet;
+}
+
+.paragraph.p1 {
+    color: coral;
+}
+
+.parent .children {
+    color: blueviolet;
+    font-size: 40px;
+}
